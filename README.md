@@ -1,5 +1,5 @@
 # Language Lab
-This is the landing page for the language lab given on 8th November 2021. Here you will find the instructions for the key pieces of the lab. In general, I thought it would be interesting to use really big AI models that companies and large institutions use, for our own purposes (my suggestion is song lyrics).
+This is the landing page for the language lab given on 8th November 2021 and 12th September 2022. Here you will find the instructions for the key pieces of the lab. In general, I thought it would be interesting to use really big AI models that companies and large institutions use, for our own purposes (my suggestion is song lyrics).
 
 These are the general instructions.
 
